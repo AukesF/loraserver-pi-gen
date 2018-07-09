@@ -27,6 +27,8 @@ Components installed:
   need to modify two files:
   * `stage3/02-packet-forwarder/files/global_conf.json`
   * `stage3/04-loraserver/files/loraserver.toml`
+* Make sure the correct GPIO reset pin number is correctly configured in:
+  `stage3/02-packet-forwarder/files/start.sh`
 
 ## Dependencies
 
