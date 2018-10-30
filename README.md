@@ -18,8 +18,7 @@ Components installed:
 
 ## Notes
 
-* LoRa App Server is accessible on port `80` (http) and port `8080` (
-  https with self-signed certificate).
+* LoRa App Server is accessible on port `8080` (http).
 * SSH is disabled by default. See the
   [Raspberry Pi documentation](https://www.raspberrypi.org/documentation/remote-access/ssh/)
   for more information.
